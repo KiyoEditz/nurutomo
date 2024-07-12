@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "basePath": "/api",
     "servers": [{
-            "url": "https:\/\/nurutomo.herokuapp.com\/"
+            "url": "https:\/\/nurutomo-lac.vercel.app\/"
         },
         {
             "url": "http:\/\/localhost:5000"
